@@ -49,7 +49,7 @@ youtube_dl
 ## 이외 기타 오류 발생 시
 해당에 파일에서 이 외에 다른 오류가 발생할 경우 이슈로 제보해주세요.
 
-해당에서 이 영상(https://www.youtube.com/watch?v=bnp24cS9i60)을 참고하셔서 다시 만들어도 좋습니다.
+해당에서 이 영상(https://www.youtube.com/watch?v=bnp24cS9i60) 을 참고하셔서 다시 만들어도 좋습니다.
 
 ## 왜 IDE는 안되나요?
 해당에서 IDE는 ffmpeg 자체을 빌드하지 않았기 때문에 `IDE` 콘솔에 ffmpeg을 쳐도 동작이 안됩니다.
